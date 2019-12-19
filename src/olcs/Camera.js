@@ -1,4 +1,5 @@
 /**
+ * Hayati TASTAN
  * @module olcs.Camera
  */
 

@@ -1,5 +1,6 @@
 /**
  * @module olcs.core
+ * Hayati TASTAN
  * * *********
  */
 import {linear as linearEasing} from 'ol/easing.js';
